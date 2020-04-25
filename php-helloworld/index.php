@@ -1,3 +1,3 @@
 <?php
-print "Yo! The rising phoenix, Finally raised :)"\n";
+print "Yo! The rising phoenix, Finally raised :)\n";
 ?>
